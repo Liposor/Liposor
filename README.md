@@ -36,7 +36,7 @@
   <summary><h2 style="color:#A823FF;" align="center"> Sobre Mim</h2></summary>
 
 <p align="center" style="color:#A823FF;">
-  Olá! Me chamo <strong>Luis Felipe Formigari</strong>, sou de <strong>São Paulo - SP, Brasil</strong>.
+  Olá! Me chamo <strong>Luis Felipe Formigari</strong>, sou de <strong>Limeira São Paulo - SP, Brasil</strong>.
 </p>
 
 <p align="center" style="color:#A823FF;">
