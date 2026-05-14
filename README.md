@@ -51,7 +51,7 @@
 </p>
 
 <p align="center" style="color:#A823FF;">
-   Atualmente, com <strong>15 anos</strong>, tenho <strong>fluência e experiência prática em Java e Python</strong>, aplicando esses conhecimentos tanto no desenvolvimento de sistemas quanto na programação de robôs autônomos e inteligentes.
+   Atualmente, com <strong>16 anos</strong>, tenho <strong>fluência e experiência prática em Java e Python</strong>, aplicando esses conhecimentos tanto no desenvolvimento de sistemas quanto na programação de robôs autônomos e inteligentes.
 </p>
 
 <p align="center" style="color:#A823FF;">
