@@ -33,14 +33,14 @@
     </a>
 </p>
 <details>
-  <summary><h2 style="color:#A823FF;" align="center">👋 Sobre Mim</h2></summary>
+  <summary><h2 style="color:#A823FF;" align="center"> Sobre Mim</h2></summary>
 
 <p align="center" style="color:#A823FF;">
   Olá! Me chamo <strong>Luis Felipe Formigari</strong>, sou de <strong>São Paulo - SP, Brasil</strong>.
 </p>
 
 <p align="center" style="color:#A823FF;">
-  💻 Há <strong>5 anos</strong> atuo desenvolvendo <strong>automações para robôs</strong> em diversas competições de alto nível, como:
+   Há <strong>5 anos</strong> atuo desenvolvendo <strong>automações para robôs</strong> em diversas competições de alto nível, como:
 </p>
 
 <p align="center" style="color:#A823FF;">
@@ -51,11 +51,11 @@
 </p>
 
 <p align="center" style="color:#A823FF;">
-  🚀 Atualmente, com <strong>15 anos</strong>, tenho <strong>fluência e experiência prática em Java e Python</strong>, aplicando esses conhecimentos tanto no desenvolvimento de sistemas quanto na programação de robôs autônomos e inteligentes.
+   Atualmente, com <strong>15 anos</strong>, tenho <strong>fluência e experiência prática em Java e Python</strong>, aplicando esses conhecimentos tanto no desenvolvimento de sistemas quanto na programação de robôs autônomos e inteligentes.
 </p>
 
 <p align="center" style="color:#A823FF;">
-  🌍 Estou iniciando minha jornada acadêmica com foco em <strong>oportunidades internacionais</strong> e, por isso, estou construindo este <strong>portfólio no GitHub</strong> para compartilhar meus projetos, minhas experiências e minha evolução na área de <strong>tecnologia e robótica</strong>.
+   Estou iniciando minha jornada acadêmica com foco em <strong>oportunidades internacionais</strong> e, por isso, estou construindo este <strong>portfólio no GitHub</strong> para compartilhar meus projetos, minhas experiências e minha evolução na área de <strong>tecnologia e robótica</strong>.
 </p>
 
 </details>
@@ -73,7 +73,7 @@
 <br/>
 <br/>
 <details>
- <summary><h2 style="color:#A823FF;" align="center">📊 Estatísticas</h2></summary>
+ <summary><h2 style="color:#A823FF;" align="center"> Estatísticas</h2></summary>
 
 <p>
   <img 
