@@ -106,7 +106,7 @@
   <g class="event e4" filter="url(#softShadow)">
     <rect x="668" y="430" width="470" height="88" rx="18" fill="url(#cardGreen)" stroke="#22C55E"/>
     <text x="694" y="460" class="year">2023 — 2026</text>
-    <text x="694" y="485" class="event-title">FRC • FLL • FTC • OBR</text>
+    <text x="694" y="485" class="event-title">FRC • FLL • FTC </text>
     <text x="694" y="505" class="event-text">Experiência em quatro níveis da robótica competitiva</text>
     <path d="M616 474H668" stroke="#22C55E" stroke-width="2" stroke-dasharray="5 5"/>
   </g>
