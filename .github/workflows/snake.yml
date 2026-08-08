@@ -1,5 +1,6 @@
 name: Generate contribution snake
 
+
 on:
   schedule:
     - cron: "0 3 * * *"
