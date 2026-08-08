@@ -30,12 +30,12 @@
 
 ## ✦ Sobre mim
 
-Olá! Eu sou **Luis Felipe Formigari**, também conhecido como **Liposor** — desenvolvedor, estudante e apaixonado por transformar ideias em sistemas que se movem, enxergam e tomam decisões.
+Olá! Eu sou **Luis Felipe Formigari**, também conhecido como **Lipe** — desenvolvedor, estudante e apaixonado por transformar ideias em sistemas que se movem, enxergam e tomam decisões.
 
 Minha trajetória nasceu na robótica competitiva. Hoje, aos 16 anos, atuo como **programador e líder da SESI SENAI Stardust #9200**, criando soluções para robôs da **FIRST Robotics Competition**. Trabalho principalmente com automação, controle de movimento, odometria, visão computacional, simulação e arquitetura de software para sistemas reais.
 
 ```java
-public class Liposor {
+public class Lipe {
     String[] roles = {"Robotics Developer", "FRC Programmer", "Team Leader"};
     String team = "SESI SENAI Stardust #9200";
     String mission = "Transformar curiosidade em engenharia que gera impacto.";
@@ -44,10 +44,10 @@ public class Liposor {
 
 | ✦ Atualmente | ✦ Construindo |
 |---|---|
-| 🎓 Desenvolvimento de Sistemas no SENAI | 🤖 Autonomias e superestruturas para FRC |
-| 💜 Líder e programador da Stardust #9200 | 👁️ Visão computacional e fusão de sensores |
-| 📍 Limeira, São Paulo — Brasil | 🎮 Simulações para testar robôs sem o hardware |
-| 🌎 Buscando oportunidades internacionais | 🚀 Projetos de software, IA e robótica |
+|  Desenvolvimento de Sistemas no SENAI |  Autonomias e superestruturas para FRC |
+|  Líder e programador da Stardust #9200 |  Visão computacional e fusão de sensores |
+|  Limeira, São Paulo — Brasil |  Simulações para testar robôs sem o hardware |
+|  Buscando oportunidades internacionais |  Projetos de software, IA e robótica |
 
 ---
 
@@ -60,7 +60,7 @@ public class Liposor {
 </p>
 
 <p align="center">
-  <b>Da poeira estelar nascem ideias. Das ideias, construímos robôs.</b><br>
+  <b>WE ARE ALL MADE OF STARDUST</b><br>
   Na Stardust, desenvolvo sistemas para robôs competitivos e também ajudo a formar pessoas — liderando, ensinando e transformando conhecimento em resultado dentro e fora da arena.
 </p>
 
@@ -76,12 +76,11 @@ public class Liposor {
 
 | Ano | Conquista | Minha jornada |
 |:---:|---|---|
-| **2023** | 🥈 Finalista de Regional | Primeiro grande resultado competitivo como líder |
-| **2023** | 🏆 Automation Award — Brasília | Reconhecimento pelo trabalho de programação e automação |
-| **2024** | ⭐ Semifinalista de Regional | Evolução técnica, estratégia e trabalho em equipe |
-| **2025** | 🌱 Sustainability Award | Impacto da equipe além do desempenho dentro da arena |
-| **2023–2026** | 🤖 FRC, FLL, FTC e OBR | Experiência em diferentes níveis da robótica competitiva |
-| **Impacto** | 💜 200+ horas e 30+ alunos | Mentorias, aulas, workshops e ações sociais com tecnologia |
+| **2023** |  Finalista de Regional FLL | Primeiro grande resultado competitivo como líder |
+| **2024** |  Semifinalista de Regional | Evolução técnica, estratégia e trabalho em equipe |
+| **2025** |  Sustainability Award | Impacto da equipe além do desempenho dentro da arena |
+| **2023–2026** |  FRC, FLL, FTC e OBR | Experiência em diferentes níveis da robótica competitiva |
+| **Impacto** |  600+ horas e 30+ alunos | Mentorias, aulas, workshops e ações sociais com tecnologia |
 
 > **“Independente de ser bom ou ruim, você não pode parar de tentar.”**<br>
 > Uma frase que se tornou parte da forma como eu aprendo, lidero e construo.
@@ -184,6 +183,7 @@ public class Liposor {
 | Desenvolvimento de Sistemas | SENAI “Luiz Varga” — Limeira | Em andamento | `Em breve` |
 | Certificados de Robótica e FIRST | FIRST / SESI SENAI | Em organização | `Em breve` |
 | Cursos, workshops e eventos | Diversas instituições | Em organização | `Em breve` |
+| Conversação em Inglês | Excellent Global Limeira | Efetuado | `Em breve` |
 
 <!--
 COMO ADICIONAR UM NOVO CERTIFICADO:
