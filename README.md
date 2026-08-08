@@ -30,9 +30,18 @@
 
 ## ✦ Sobre mim
 
-Olá! Eu sou **Luis Felipe Formigari**, também conhecido como **Lipe** — desenvolvedor, estudante e apaixonado por transformar ideias em sistemas que se movem, enxergam e tomam decisões.
+<p align="center">
+  Olá! Eu sou <b>Luis Felipe Formigari</b>, também conhecido como <b>Lipe</b> — desenvolvedor, estudante e apaixonado por transformar ideias em sistemas que se movem, enxergam e tomam decisões.
+</p>
 
-Minha trajetória nasceu na robótica competitiva. Hoje, aos 16 anos, atuo como **programador e líder da SESI SENAI Stardust #9200**, criando soluções para robôs da **FIRST Robotics Competition**. Trabalho principalmente com automação, controle de movimento, odometria, visão computacional, simulação e arquitetura de software para sistemas reais.
+<p align="center">
+  Minha trajetória nasceu na robótica competitiva. Hoje, aos 16 anos, atuo como <b>programador e líder da SESI SENAI Stardust #9200</b>, criando soluções para robôs da <b>FIRST Robotics Competition</b>. Trabalho principalmente com automação, controle de movimento, odometria, visão computacional, simulação e arquitetura de software para sistemas reais.
+</p>
+
+<details>
+<summary align="center"><b>✦ Abrir meu perfil em Java</b></summary>
+
+<br>
 
 ```java
 public class Lipe {
@@ -42,12 +51,32 @@ public class Lipe {
 }
 ```
 
-| ✦ Atualmente | ✦ Construindo |
-|---|---|
-|  Desenvolvimento de Sistemas no SENAI |  Autonomias e superestruturas para FRC |
-|  Líder e programador da Stardust #9200 |  Visão computacional e fusão de sensores |
-|  Limeira, São Paulo — Brasil |  Simulações para testar robôs sem o hardware |
-|  Buscando oportunidades internacionais |  Projetos de software, IA e robótica |
+</details>
+
+<br>
+
+<table align="center">
+  <tr>
+    <th align="center">✦ Atualmente</th>
+    <th align="center">✦ Construindo</th>
+  </tr>
+  <tr>
+    <td align="center">🎓 Desenvolvimento de Sistemas no SENAI</td>
+    <td align="center">🤖 Autonomias e superestruturas para FRC</td>
+  </tr>
+  <tr>
+    <td align="center">💜 Líder e programador da Stardust #9200</td>
+    <td align="center">👁️ Visão computacional e fusão de sensores</td>
+  </tr>
+  <tr>
+    <td align="center">📍 Limeira, São Paulo — Brasil</td>
+    <td align="center">🎮 Simulações para testar robôs sem o hardware</td>
+  </tr>
+  <tr>
+    <td align="center">🌎 Oportunidades internacionais</td>
+    <td align="center">🚀 Projetos de software, IA e robótica</td>
+  </tr>
+</table>
 
 ---
 
@@ -74,13 +103,49 @@ public class Lipe {
 
 ## ✦ Constelação de conquistas
 
-| Ano | Conquista | Minha jornada |
-|:---:|---|---|
-| **2023** |  Finalista de Regional FLL | Primeiro grande resultado competitivo como líder |
-| **2024** |  Semifinalista de Regional | Evolução técnica, estratégia e trabalho em equipe |
-| **2025** |  Sustainability Award | Impacto da equipe além do desempenho dentro da arena |
-| **2023–2026** |  FRC, FLL, FTC e OBR | Experiência em diferentes níveis da robótica competitiva |
-| **Impacto** |  600+ horas e 30+ alunos | Mentorias, aulas, workshops e ações sociais com tecnologia |
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Liposor/Liposor/main/assets/timeline.svg?v=1" alt="Linha do tempo animada das conquistas de Luis Felipe" />
+</p>
+
+<details>
+<summary align="center"><b>★ Ver conquistas em formato de tabela</b></summary>
+
+<br>
+
+<table align="center">
+  <tr>
+    <th align="center">Ano</th>
+    <th align="center">Conquista</th>
+    <th align="center">Minha jornada</th>
+  </tr>
+  <tr>
+    <td align="center"><b>2023</b></td>
+    <td align="center">🥈 Finalista de Regional FLL</td>
+    <td align="center">Primeiro grande resultado competitivo como líder</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2024</b></td>
+    <td align="center">⭐ Semifinalista de Regional</td>
+    <td align="center">Evolução técnica, estratégia e trabalho em equipe</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2025</b></td>
+    <td align="center">🌱 Sustainability Award</td>
+    <td align="center">Impacto da equipe além do desempenho dentro da arena</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2023–2026</b></td>
+    <td align="center">🤖 FRC, FLL, FTC e OBR</td>
+    <td align="center">Experiência em diferentes níveis da robótica competitiva</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Impacto</b></td>
+    <td align="center">💜 600+ horas e 30+ alunos</td>
+    <td align="center">Mentorias, aulas, workshops e ações sociais com tecnologia</td>
+  </tr>
+</table>
+
+</details>
 
 > **“Independente de ser bom ou ruim, você não pode parar de tentar.”**<br>
 > Uma frase que se tornou parte da forma como eu aprendo, lidero e construo.
@@ -111,10 +176,16 @@ public class Lipe {
   <summary><b>★ O que existe por trás desses projetos</b></summary>
   <br>
 
-- **Robo25:** programação oficial do robô FRC 2025, integrando drivetrain swerve, elevador, intake e arquitetura Command-Based.
-- **Odometry:** estudos e soluções de odometria personalizada, curvas, filtragem de sensores e integração entre CANcoder, Pigeon 2 e Limelight.
-- **FRC-2026-Off:** biblioteca de experimentos, automações e evolução técnica desenvolvida durante a off-season da Stardust.
-- **SwerveDrive25:** implementação e documentação de controle omnidirecional, PID, odometria e Field-Oriented Control.
+<table align="center">
+  <tr>
+    <td align="center"><b>🤖 Robo25</b><br><sub>Robô FRC 2025, swerve, elevador, intake e arquitetura Command-Based</sub></td>
+    <td align="center"><b>🧭 Odometry</b><br><sub>Curvas, filtragem e integração entre CANcoder, Pigeon 2 e Limelight</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🚀 FRC-2026-Off</b><br><sub>Experimentos, automações e evolução técnica durante a off-season</sub></td>
+    <td align="center"><b>✦ SwerveDrive25</b><br><sub>Controle omnidirecional, PID, odometria e Field-Oriented Control</sub></td>
+  </tr>
+</table>
 
 </details>
 
@@ -156,8 +227,10 @@ public class Lipe {
   <img width="70%" src="https://streak-stats.demolab.com?user=Liposor&locale=pt_BR&mode=weekly&background=0D1117&border=6D28D9&stroke=A855F7&ring=39FF14&fire=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=39FF14&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições" />
 </p>
 
+<h3 align="center">✦ Mapa de atividade</h3>
+
 <p align="center">
-  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=Liposor&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Troféus do GitHub" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Liposor&bg_color=0D1117&color=C9D1D9&title_color=39FF14&line=7C3AED&point=39FF14&area_color=7C3AED&area=true&border_color=6D28D9&radius=12&custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias" alt="Mapa de atividade recente no GitHub" />
 </p>
 
 ---
@@ -178,12 +251,38 @@ public class Lipe {
   <summary><b>★ Abrir minha coleção de certificados</b></summary>
   <br>
 
-| Formação / Certificado | Instituição | Status / Ano | Comprovante |
-|---|---|:---:|:---:|
-| Desenvolvimento de Sistemas | SENAI “Luiz Varga” — Limeira | Em andamento | `Em breve` |
-| Certificados de Robótica e FIRST | FIRST / SESI SENAI | Em organização | `Em breve` |
-| Cursos, workshops e eventos | Diversas instituições | Em organização | `Em breve` |
-| Conversação em Inglês | Excellent Global Limeira | Efetuado | `Em breve` |
+<table align="center">
+  <tr>
+    <th align="center">Formação / Certificado</th>
+    <th align="center">Instituição</th>
+    <th align="center">Status</th>
+    <th align="center">Comprovante</th>
+  </tr>
+  <tr>
+    <td align="center">💻 Desenvolvimento de Sistemas</td>
+    <td align="center">SENAI “Luiz Varga” — Limeira</td>
+    <td align="center"><code>Em andamento</code></td>
+    <td align="center"><code>Em breve</code></td>
+  </tr>
+  <tr>
+    <td align="center">🌎 Conversação em Inglês</td>
+    <td align="center">Excellent Global Limeira</td>
+    <td align="center"><code>Efetuado</code></td>
+    <td align="center"><code>Em breve</code></td>
+  </tr>
+  <tr>
+    <td align="center">🤖 Robótica e FIRST</td>
+    <td align="center">FIRST / SESI SENAI</td>
+    <td align="center"><code>Em organização</code></td>
+    <td align="center"><code>Em breve</code></td>
+  </tr>
+  <tr>
+    <td align="center">🎓 Cursos, workshops e eventos</td>
+    <td align="center">Diversas instituições</td>
+    <td align="center"><code>Em organização</code></td>
+    <td align="center"><code>Em breve</code></td>
+  </tr>
+</table>
 
 <!--
 COMO ADICIONAR UM NOVO CERTIFICADO:
@@ -210,6 +309,12 @@ COMO ADICIONAR UM NOVO CERTIFICADO:
   </a>
   <a href="https://www.frc9200.com">
     <img src="https://img.shields.io/badge/Stardust-FRC_9200-22C55E?style=for-the-badge&logoColor=white" alt="Site da Stardust" />
+  </a>
+  <a href="https://www.instagram.com/liposoman/">
+    <img src="https://img.shields.io/badge/Instagram-@liposoman-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Luis Felipe" />
+  </a>
+  <a href="https://www.instagram.com/frc9200/">
+    <img src="https://img.shields.io/badge/Instagram-@frc9200-22C55E?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram da Stardust #9200" />
   </a>
 </p>
 
