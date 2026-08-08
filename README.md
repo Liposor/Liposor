@@ -61,20 +61,20 @@ public class Lipe {
     <th align="center">✦ Construindo</th>
   </tr>
   <tr>
-    <td align="center">🎓 Desenvolvimento de Sistemas no SENAI</td>
-    <td align="center">🤖 Autonomias e superestruturas para FRC</td>
+    <td align="center"> Desenvolvimento de Sistemas no SENAI</td>
+    <td align="center"> Autonomias e superestruturas para FRC</td>
   </tr>
   <tr>
-    <td align="center">💜 Líder e programador da Stardust #9200</td>
-    <td align="center">👁️ Visão computacional e fusão de sensores</td>
+    <td align="center"> Líder e programador da Stardust #9200</td>
+    <td align="center"> Visão computacional e fusão de sensores</td>
   </tr>
   <tr>
-    <td align="center">📍 Limeira, São Paulo — Brasil</td>
-    <td align="center">🎮 Simulações para testar robôs sem o hardware</td>
+    <td align="center"> Limeira, São Paulo — Brasil</td>
+    <td align="center"> Simulações para testar robôs sem o hardware</td>
   </tr>
   <tr>
-    <td align="center">🌎 Oportunidades internacionais</td>
-    <td align="center">🚀 Projetos de software, IA e robótica</td>
+    <td align="center"> Oportunidades internacionais</td>
+    <td align="center"> Projetos de software, IA e robótica</td>
   </tr>
 </table>
 
@@ -120,27 +120,27 @@ public class Lipe {
   </tr>
   <tr>
     <td align="center"><b>2023</b></td>
-    <td align="center">🥈 Finalista de Regional FLL</td>
+    <td align="center"> Finalista de Regional FLL</td>
     <td align="center">Primeiro grande resultado competitivo como líder</td>
   </tr>
   <tr>
     <td align="center"><b>2024</b></td>
-    <td align="center">⭐ Semifinalista de Regional</td>
+    <td align="center"> Semifinalista de Regional</td>
     <td align="center">Evolução técnica, estratégia e trabalho em equipe</td>
   </tr>
   <tr>
     <td align="center"><b>2025</b></td>
-    <td align="center">🌱 Sustainability Award</td>
+    <td align="center"> Sustainability Award</td>
     <td align="center">Impacto da equipe além do desempenho dentro da arena</td>
   </tr>
   <tr>
     <td align="center"><b>2023–2026</b></td>
-    <td align="center">🤖 FRC, FLL, FTC e OBR</td>
+    <td align="center"> FRC, FLL, FTC e OBR</td>
     <td align="center">Experiência em diferentes níveis da robótica competitiva</td>
   </tr>
   <tr>
     <td align="center"><b>Impacto</b></td>
-    <td align="center">💜 600+ horas e 30+ alunos</td>
+    <td align="center"> 600+ horas e 30+ alunos</td>
     <td align="center">Mentorias, aulas, workshops e ações sociais com tecnologia</td>
   </tr>
 </table>
@@ -178,12 +178,12 @@ public class Lipe {
 
 <table align="center">
   <tr>
-    <td align="center"><b>🤖 Robo25</b><br><sub>Robô FRC 2025, swerve, elevador, intake e arquitetura Command-Based</sub></td>
-    <td align="center"><b>🧭 Odometry</b><br><sub>Curvas, filtragem e integração entre CANcoder, Pigeon 2 e Limelight</sub></td>
+    <td align="center"><b> Robo25</b><br><sub>Robô FRC 2025, swerve, elevador, intake e arquitetura Command-Based</sub></td>
+    <td align="center"><b> Odometry</b><br><sub>Curvas, filtragem e integração entre CANcoder, Pigeon 2 e Limelight</sub></td>
   </tr>
   <tr>
-    <td align="center"><b>🚀 FRC-2026-Off</b><br><sub>Experimentos, automações e evolução técnica durante a off-season</sub></td>
-    <td align="center"><b>✦ SwerveDrive25</b><br><sub>Controle omnidirecional, PID, odometria e Field-Oriented Control</sub></td>
+    <td align="center"><b> FRC-2026-Off</b><br><sub>Experimentos, automações e evolução técnica durante a off-season</sub></td>
+    <td align="center"><b> SwerveDrive25</b><br><sub>Controle omnidirecional, PID, odometria e Field-Oriented Control</sub></td>
   </tr>
 </table>
 
@@ -259,25 +259,25 @@ public class Lipe {
     <th align="center">Comprovante</th>
   </tr>
   <tr>
-    <td align="center">💻 Desenvolvimento de Sistemas</td>
+    <td align="center"> Desenvolvimento de Sistemas</td>
     <td align="center">SENAI “Luiz Varga” — Limeira</td>
     <td align="center"><code>Em andamento</code></td>
     <td align="center"><code>Em breve</code></td>
   </tr>
   <tr>
-    <td align="center">🌎 Conversação em Inglês</td>
+    <td align="center"> Conversação em Inglês</td>
     <td align="center">Excellent Global Limeira</td>
     <td align="center"><code>Efetuado</code></td>
     <td align="center"><code>Em breve</code></td>
   </tr>
   <tr>
-    <td align="center">🤖 Robótica e FIRST</td>
+    <td align="center"> Robótica e FIRST</td>
     <td align="center">FIRST / SESI SENAI</td>
     <td align="center"><code>Em organização</code></td>
     <td align="center"><code>Em breve</code></td>
   </tr>
   <tr>
-    <td align="center">🎓 Cursos, workshops e eventos</td>
+    <td align="center"> Cursos, workshops e eventos</td>
     <td align="center">Diversas instituições</td>
     <td align="center"><code>Em organização</code></td>
     <td align="center"><code>Em breve</code></td>
