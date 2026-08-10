@@ -106,6 +106,7 @@ public class Lipe {
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Liposor/Liposor/main/assets/timeline.svg?v=1" alt="Linha do tempo animada das conquistas de Luis Felipe" />
 </p>
+* GIF gerado por IA * 
 
 <details>
 <summary align="center"><b>★ Ver conquistas em formato de tabela</b></summary>
