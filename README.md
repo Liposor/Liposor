@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,52:7C3AED,100:39FF14&height=240&section=header&text=Luis%20Felipe%20Formigari&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Robotics%20Developer%20%E2%80%A2%20FRC%20Programmer%20%E2%80%A2%20Tech%20Explorer&descAlignY=57&descSize=18" alt="Cabeçalho de Luis Felipe Formigari" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=45&lines=Programador+e+L%C3%ADder+da+Stardust+%239200+%E2%9C%A6;Java+%7C+Python+%7C+WPILib+%7C+Automa%C3%A7%C3%A3o;Transformando+c%C3%B3digo+em+movimento+%E2%98%85;Construindo+o+futuro%2C+um+rob%C3%B4+por+vez" alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=45&lines=Programador+da+Stardust+%239200+%E2%9C%A6;Java+%7C+Python+%7C+WPILib+%7C+Automa%C3%A7%C3%A3o;Transformando+c%C3%B3digo+em+movimento+%E2%98%85;Construindo+o+futuro%2C+um+rob%C3%B4+por+vez" alt="Apresentação animada" />
 </p>
 
 <p align="center">
