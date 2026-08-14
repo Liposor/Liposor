@@ -31,7 +31,7 @@
 ## ✦ Sobre mim
 
 <p align="center">
-  Olá! Eu sou <b>Luis Felipe Formigari</b>, também conhecido como <b>Lipe</b> — desenvolvedor, estudante e apaixonado por transformar ideias em sistemas que se movem, enxergam e tomam decisões.
+  Olá! Eu sou <b>Luis Felipe Formigari</b>, também conhecido como <b>Lipe</b>, desenvolvedor, estudante e apaixonado por transformar ideias em sistemas que se movem, enxergam e tomam decisões.
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ public class Lipe {
     <td align="center"> Visão computacional e fusão de sensores</td>
   </tr>
   <tr>
-    <td align="center"> Limeira, São Paulo — Brasil</td>
+    <td align="center"> Limeira, São Paulo, Brasil</td>
     <td align="center"> Simulações para testar robôs sem o hardware</td>
   </tr>
   <tr>
@@ -90,7 +90,7 @@ public class Lipe {
 
 <p align="center">
   <b>WE ARE ALL MADE OF STARDUST</b><br>
-  Na Stardust, desenvolvo sistemas para robôs competitivos e também ajudo a formar pessoas — liderando, ensinando e transformando conhecimento em resultado dentro e fora da arena.
+  Na Stardust, desenvolvo sistemas para robôs competitivos e também ajudo a formar pessoas, liderando, ensinando e transformando conhecimento em resultado dentro e fora da arena.
 </p>
 
 <p align="center">
@@ -320,7 +320,7 @@ COMO ADICIONAR UM NOVO CERTIFICADO:
 </p>
 
 <p align="center">
-  <i>✦ Explore. Aprenda. Construa. Compartilhe. ✦</i>
+  <i> Explore. Aprenda. Construa. Compartilhe. </i>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,48:7C3AED,100:4C1D95&height=130&section=footer" alt="Rodapé em roxo e verde" />
