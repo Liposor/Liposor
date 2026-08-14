@@ -84,7 +84,7 @@ public class Lipe {
 
 <p align="center">
   <a href="https://www.frc9200.com">
-    <img src="https://static.wixstatic.com/media/a23ddf_7532496a3dbc4352a7b73111f9e14ffc~mv2.png/v1/crop/x_266,y_0,w_834,h_768/fill/w_111,h_49,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Design%20sem%20nome.png" width="140" alt="Logo da Stardust #9200" />
+    <img src="https://static.wixstatic.com/media/a23ddf_7532496a3dbc4352a7b73111f9e14ffc~mv2.png/v1/crop/x_266,y_0,w_834,h_768/fill/w_111,h_49,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Design%20sem%20nome.png" width="240" alt="Logo da Stardust #9200" />
   </a>
 </p>
 
